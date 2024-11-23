@@ -9,7 +9,7 @@
 Сначала клонируйте репозиторий на свой компьютер:
 
 ```bash
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/keyayeten/test_api.git
 cd yourproject
 ```
 ### 2. Создание виртуального окружения:
